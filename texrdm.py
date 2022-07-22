@@ -382,6 +382,4 @@ def randomiseSubtexs(subTexs):
 #     print(i.diffuse)
 
 
-randomiseSubtexs(diffuseList)
-
 
